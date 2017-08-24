@@ -1,0 +1,10 @@
+/home/bartek/Pulpit/ListaZakupowApi/bin/Debug/netcoreapp2.0/ListaZakupowApi.deps.json
+/home/bartek/Pulpit/ListaZakupowApi/bin/Debug/netcoreapp2.0/ListaZakupowApi.runtimeconfig.json
+/home/bartek/Pulpit/ListaZakupowApi/bin/Debug/netcoreapp2.0/ListaZakupowApi.runtimeconfig.dev.json
+/home/bartek/Pulpit/ListaZakupowApi/bin/Debug/netcoreapp2.0/ListaZakupowApi.dll
+/home/bartek/Pulpit/ListaZakupowApi/bin/Debug/netcoreapp2.0/ListaZakupowApi.pdb
+/home/bartek/Pulpit/ListaZakupowApi/obj/Debug/netcoreapp2.0/ListaZakupowApi.csproj.CoreCompileInputs.cache
+/home/bartek/Pulpit/ListaZakupowApi/obj/Debug/netcoreapp2.0/ListaZakupowApi.AssemblyInfoInputs.cache
+/home/bartek/Pulpit/ListaZakupowApi/obj/Debug/netcoreapp2.0/ListaZakupowApi.AssemblyInfo.cs
+/home/bartek/Pulpit/ListaZakupowApi/obj/Debug/netcoreapp2.0/ListaZakupowApi.dll
+/home/bartek/Pulpit/ListaZakupowApi/obj/Debug/netcoreapp2.0/ListaZakupowApi.pdb
